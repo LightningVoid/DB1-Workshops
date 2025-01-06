@@ -64,7 +64,7 @@ namen van de leveranciers in alfabetische volgorde.
        OR naam LIKE '_____' 
     -- OF OR LENGTH(naam)=5 
     ```
-8. Toon naam en woonplaats van de leveranciers die niet in Heusden wonen.
+8. Toon naam en woonplaats van de leveranciers die niet in Lisse wonen.
     > 7 records 
     ```sql
     SELECT naam, woonplaats 
